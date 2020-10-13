@@ -1,3 +1,7 @@
 beringei/if/gen-cpp2/
 build/
 .vagrant
+.idea
+CMakeCache.txt
+CMakeFiles
+beringei/third-party/
